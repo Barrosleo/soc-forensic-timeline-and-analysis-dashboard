@@ -1,0 +1,4 @@
+timestamp,source,event,message
+2025-05-07T09:00:00,endpoint,login-failure,"user admin failed to login"
+2025-05-07T09:05:00,network,anomaly,"suspicious inbound traffic detected"
+2025-05-07T09:07:00,cloud,alert,"possible credential compromise"
