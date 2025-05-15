@@ -12,9 +12,11 @@ this project simulates a soc incident investigation by aggregating synthetic log
 1. use github codespaces or the online web editor to modify the project.
 2. install dependencies from `requirements.txt`.
 3. run the project with:
+```
 python src/main.py
-
+```
 ## repository structure
+```
 soc-forensic-timeline-and-analysis-dashboard/
 ├── README.md
 ├── requirements.txt
@@ -29,4 +31,4 @@ soc-forensic-timeline-and-analysis-dashboard/
     ├── correlation_engine.py
     ├── timeline_dashboard.py
     └── report_generator.py
-
+```
